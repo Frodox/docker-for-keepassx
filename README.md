@@ -4,6 +4,8 @@
 docker build -t keepassx .
 ```
 
+*TODO:* test `xhost +local:`
+
 ## running
 
 * first run
